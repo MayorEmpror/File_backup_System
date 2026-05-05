@@ -1,0 +1,5 @@
+/Users/hashirali/Documents/Hashir/FileSystem/Distributed-File-Backup-Manager/build/CMakeFiles/DFBMS.dir
+/Users/hashirali/Documents/Hashir/FileSystem/Distributed-File-Backup-Manager/build/CMakeFiles/edit_cache.dir
+/Users/hashirali/Documents/Hashir/FileSystem/Distributed-File-Backup-Manager/build/CMakeFiles/rebuild_cache.dir
+/Users/hashirali/Documents/Hashir/FileSystem/Distributed-File-Backup-Manager/build/CMakeFiles/DFBMS_autogen_timestamp_deps.dir
+/Users/hashirali/Documents/Hashir/FileSystem/Distributed-File-Backup-Manager/build/CMakeFiles/DFBMS_autogen.dir
